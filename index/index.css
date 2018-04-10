@@ -1,0 +1,56 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#home {
+  background-image: url("../resources/background.jpeg")
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.banner1 {
+  background-image: url("../resources/background.jpeg")
+}
+
+#banner1 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner2 {
+  background-color: dimgray;
+}
+
+#banner2 {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+#nav {
+  font-size: 18px;
+}
